@@ -226,7 +226,7 @@
 
     <div class="container">
         <div class="logo-container">
-            <img src="logo.png" alt="SRC STORE Logo" class="logo">
+            <img src="logo.1.png" alt="DELIZA RELOAD Logo" class="logo">
         </div>  
         <button onclick="toggleInfo()">INFO</button>
         
