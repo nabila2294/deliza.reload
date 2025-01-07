@@ -295,7 +295,7 @@
         const products = {
             paket_otp: {
                 subcategories: {
-                    BEBAS PUAS 30HARI: [
+                    BEBAS_PUAS_30HARI: [
                         { 
                             name: 'BEBAS PUAS V1 [88.000]', 
                             code: 'BEBAS PUAS V1',
